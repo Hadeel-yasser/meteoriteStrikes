@@ -21,7 +21,7 @@ void setup(){
 
 // DRAW
 void draw(){
-  //beginRecord(PDF,"meteorStrikes-1.pdf");
+  beginRecord(PDF,"meteorStrikes-1.pdf");
   shape(baseMap,0,0,width,height);
   noStroke();
   
@@ -47,6 +47,6 @@ void draw(){
       ellipse(graphLong,graphLat,7,7);
     }
     }
-    //endRecord();
+    endRecord();
     println("pdf saved");
 }
