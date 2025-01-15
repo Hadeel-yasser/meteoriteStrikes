@@ -13,11 +13,17 @@
 <p>The following steps were reading the data into processing, then plotting the data points on the world map that I have loaded as well.</p>
 <h4>Initial output:</h4>
 <br>
-!(https://github.com/Hadeel-yasser/meteoriteStrikes/blob/main/meteorStrikes.pdf)
 
+
+![meteorStrikes-preprocessing](https://github.com/user-attachments/assets/325a170b-50d0-4f45-a51a-606f61dad946)
+
+
+
+<br>
 <p>The output file needed some touch ups which I did in Inkscape </p>
 
 <h4>Final output:</h4>
 <br>
-![meteorStrikes-inkscape-1](https://github.com/user-attachments/assets/ec375bfa-ca8b-41bc-a0f5-c86b046ad9e2)
+
+![meteorStrikes-inkscape-1](https://github.com/user-attachments/assets/3f47c88a-91e7-4464-95fb-740f380a6e78)
 
